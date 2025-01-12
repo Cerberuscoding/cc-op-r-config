@@ -1,2 +1,2 @@
-paymentNeeded=false
+paymentNeeded=true
 live=true
